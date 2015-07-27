@@ -1,0 +1,7 @@
+1. (Done) use __DIR__ constant(includes.php) 		
+2. (Done) make params local to each function in ES Class
+3. (Done) Remove Set Form Fields(includes.php) 				
+4. (Done) Correct range values for filter (resultsfile.php & resultspage.php)
+5. (Done) Remove $esObject from elastic.php && same for redis.php 
+6. (Done) read files line by line and transfer data to ES in bulk 
+7. (Done) Merge Code
